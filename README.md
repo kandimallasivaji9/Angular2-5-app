@@ -26,3 +26,9 @@ npm using npm install or sudo npm install
 bootstap using npm install --save bootstrap 
 
 then run ng serve to load the application
+
+ website with domain 
+ http://sivaji-recipe-book-deployment.s3-website-us-west-2.amazonaws.com/
+ 
+ this will give you the same application once we deployed into the environment.
+
